@@ -11,12 +11,13 @@ html {
 	height: 100%;
 	width: 100%;
 }
+
 h1, h2 {
 	font-family: 'Roboto', sans-serif;
 	font-weight: 300;
 	text-align: center;
 	padding-bottom: 20px;
-	font-size: 250%;
+	font-size: 200%;
 }
 
 .title {
@@ -57,7 +58,7 @@ div {
 .data-container {
 	box-shadow: 26px 20px 32px -22px rgba(0,0,0,0.66);
 	border-radius: 10px;
-	margin-right: 30%;
+	margin-right: 35%;
 	margin-left: 30%;
 
 }
